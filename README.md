@@ -100,7 +100,7 @@ My goal is to build reliable applications that solve practical problems rather t
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/aditmawaa](https://www.linkedin.com/in/aditmawaa)
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: [aditmawaa.com](https://aditmawaa.github.io/)
 - 📧 Email: aditmawaa@gmail.com
 
 ---
