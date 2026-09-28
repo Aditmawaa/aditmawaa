@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Aditya 👋
 
-### Backend Developer | Data & Operations Engineering
+### Full Stack Developer | Data & Operations Engineering
 
 I build practical software and data solutions that connect **backend systems, analytics, and real-world business operations**.
 
@@ -10,7 +10,7 @@ My background combines experience in **procurement, inventory, operations, repor
 
 ## 🚀 About Me
 
-- 💻 Focus: **Backend Development & Data Engineering**
+- 💻 Focus: **Full Stack Development & Data Engineering**
 - 📊 Strong interest: **Data-driven applications, automation & analytics**
 - 🏭 Domain experience: **Procurement, Inventory, Operations & Mining**
 - 🎓 B.IT — Brawijaya University
