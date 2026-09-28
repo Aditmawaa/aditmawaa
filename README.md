@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Data & Operations Engineering
 
-I build practical software and data solutions that connect **backend systems, analytics, and real-world business operations**.
+I build practical software and data solutions that connect **backend & frontend systems, end-to-end launch system, analytics, and real-world business operations**.
 
 My background combines experience in **procurement, inventory, operations, reporting, SAP, and data processing** with a growing focus on backend development and software engineering.
 
@@ -40,6 +40,11 @@ My background combines experience in **procurement, inventory, operations, repor
 ---
 
 ## 📌 Featured Projects
+
+### Balantang Jaya Global — Company Profile Website
+Designed and built a company profile website for Balantang Jaya Global, a drilling & construction company. The site presents company information, services, project experience, equipment fleet, HSE approach, gallery, and contact information in a responsive web experience.
+
+**Focus:** Frontend • Javascript • CSS • HTML • End-to-End Launch
 
 ### 🔧 Spare Part Inventory API
 A backend system concept for managing spare-part inventory, stock movements, suppliers, and procurement-related data.
